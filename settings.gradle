@@ -1,0 +1,5 @@
+include ':inject_compiler'
+include ':inject_annotation'
+include ':test'
+include ':app'
+rootProject.name = "InjectApplication"
